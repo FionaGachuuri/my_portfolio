@@ -1,7 +1,7 @@
 /* Base Styles & Variables */
 :root {
     --primary-color: #0a8240;
-    --secondary-color: #4a47a3;
+    --secondary-color: #41dea2;
     --dark-color: #2a2a2a;
     --light-color: #f4f7f9;
     --text-color: #0a0000;
@@ -620,3 +620,6 @@ img {
     }
     
     .footer-content {
+        flex-direction: column;
+        align-items: center;
+    }
