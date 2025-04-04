@@ -39,5 +39,6 @@ Contact information is available on the Contact section.
 This project is open-source and available under the MIT License.
 
 #Author
+
 Fiona Gachuuri
 Email: fionairuka@gmail.com
